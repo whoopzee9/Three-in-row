@@ -1,6 +1,8 @@
 # Three-in-row
 SPbSTU course project: Three In Row game
 
+game.rar is an archive, containing compiled executable file, that will run the game
+
 RU
 Как играть?
 
